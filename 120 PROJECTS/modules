@@ -1,0 +1,9 @@
+GETPASS : to hide the entering text like passwords
+    password=getpass.getpass("Enter your password:")
+
+RANDOM : choose an int or char from lists
+    card=random.choices(cards)
+
+NUMPY : to perform mathematical operations
+    Q2 = numpy.quantile(data, 0.50)
+    print(np.sort(a))        --> sorting an array
