@@ -1,0 +1,10 @@
+n1=int(input("number 1: "))
+n2=int(input("number 2: "))
+n3=int(input("number 3: "))
+n4=int(input("number 4: "))
+n5=int(input("number 5: "))
+n6=int(input("number 6: "))
+n7=int(input("number 7: "))
+n8=int(input("number 8: "))
+unique={n1,n2,n3,n4,n5,n6,n7,n8}
+print(unique)
